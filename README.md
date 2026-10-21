@@ -1,4 +1,4 @@
-# GenAI in Introductory Programming Education: A Scoping Review
+# What Changes When GenAI Enters the Classroom? A Scoping Review of Activities, Division of Work, and Measurement Practices
 
 **Supplementary materials** for:
 

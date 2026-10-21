@@ -1,0 +1,295 @@
+paper_id,citation,year,activity_id,activity_name,division_of_work,intended_role,final_code,final_label,unassisted_measurement
+CJ285LFL,"Denny et al., 2024",2024,1,Interpreting visual problems,student-led,delegate,2.1,Interpreting the problem,no
+CJ285LFL,"Denny et al., 2024",2024,2,Prompting,student-led,delegate,NEW-P,Prompting / NL specification,no
+CJ285LFL,"Denny et al., 2024",2024,3,Evaluating test feedback,student-led,unclear,NEW-E,Evaluating AI output,no
+CJ285LFL,"Denny et al., 2024",2024,4,Code Generation,AI-led,delegate,3.1,Writing a program,no
+LYGHG3DS,"P?durean et al., 2026",2026,1,Prompting,student-led,both,NEW-P,Prompting / NL specification,yes
+LYGHG3DS,"P?durean et al., 2026",2026,2,Running AI code,student-led,unclear,3.4,Compiling / executing,yes
+LYGHG3DS,"P?durean et al., 2026",2026,3,Editing code,student-led,both,3.3,Modifying code,yes
+LYGHG3DS,"P?durean et al., 2026",2026,5,Code Generation,AI-led,both,3.1,Writing a program,yes
+V2XQA48X,"P?durean et al., 2025",2025,1,Interpreting specifications,student-led,unclear,2.1,Interpreting the problem,no
+V2XQA48X,"P?durean et al., 2025",2025,2,Multi-turn prompting,student-led,delegate,NEW-P,Prompting / NL specification,no
+V2XQA48X,"P?durean et al., 2025",2025,3,Critical code evaluation,student-led,both,3.5,Code style and quality,no
+V2XQA48X,"P?durean et al., 2025",2025,4,On-request execution,student-led,unclear,3.4,Compiling / executing,no
+V2XQA48X,"P?durean et al., 2025",2025,5,Code Generation,AI-led,delegate,3.1,Writing a program,no
+TGLCEHBP,"Tang et al., 2026",2026,1,Natural language probing,student-led,both,2.1,Interpreting the problem,no
+TGLCEHBP,"Tang et al., 2026",2026,4,Writing code,student-led,unclear,NEW-P,Prompting / NL specification,no
+TGLCEHBP,"Tang et al., 2026",2026,5,Submit code and react to test results,student-led,unclear,4.2,Evaluating correctness,no
+XCFGNL8V,"Burns et al., 2026",2026,1,Prompting,student-led,scaffold,NEW-P,Prompting / NL specification,no
+XCFGNL8V,"Burns et al., 2026",2026,2,Integrating Code,student-led,unclear,3.3,Modifying code,no
+XCFGNL8V,"Burns et al., 2026",2026,3,Problem decompositions,student-led,scaffold,2.2,Problem Decomposition,no
+XCFGNL8V,"Burns et al., 2026",2026,4,Code writing,AI-led,delegate,3.1,Writing a program,no
+GQPY4V2K,"Hassan et al., 2025",2025,1,Code reading (EiPE),student-led,scaffold with fading,1.1,Code Reading,yes
+GQPY4V2K,"Hassan et al., 2025",2025,2,Code execution / testing,student-led,unclear,3.4,Compiling / executing,yes
+GQPY4V2K,"Hassan et al., 2025",2025,3,Debugging,student-led,scaffold with fading,4.3,Debugging,yes
+GQPY4V2K,"Hassan et al., 2025",2025,4,Conversing with AI tutor,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,yes
+GQPY4V2K,"Hassan et al., 2025",2025,5,Writing code,student-led,scaffold with fading,3.1,Writing a program,yes
+DIQRT4IJ,"Ortega-Alvarez et al., 2025",2025,1,Writing code,student-led,unclear,3.1,Writing a program,yes
+DIQRT4IJ,"Ortega-Alvarez et al., 2025",2025,2,Querying GenAI for syntax,AI-proposes student-decides,scaffold,NEW-Q,Querying AI for help,yes
+DIQRT4IJ,"Ortega-Alvarez et al., 2025",2025,3,Debugging with GenAI,AI-proposes student-decides,scaffold,4.3,Debugging,yes
+JXDU3H6F,"Nguyen et al., 2024",2024,2,Prompting,student-led,delegate,NEW-P,Prompting / NL specification,no
+JXDU3H6F,"Nguyen et al., 2024",2024,3,Evaluating test feedback,student-led,unclear,NEW-E,Evaluating AI output,no
+JXDU3H6F,"Nguyen et al., 2024",2024,5,Code Generation,AI-led,delegate,3.1,Writing a program,no
+CLNC92EL,"Kumamoto et al., 2025",2025,2,Describing data definitions,student-led,scaffold,2.1,Interpreting the problem,no
+CLNC92EL,"Kumamoto et al., 2025",2025,6,Code Generation,AI-led,delegate,3.1,Writing a program,no
+XN74FJDC,"Xiao et al., 2025",2025,1,Scenario analysis,student-led,scaffold,2.1,Interpreting the problem,no
+XN74FJDC,"Xiao et al., 2025",2025,2,Writing learning context,student-led,scaffold,NEW-P,Prompting / NL specification,no
+XN74FJDC,"Xiao et al., 2025",2025,4,Reviewing validator feedback,AI-proposes student-decides,scaffold,NEW-E,Evaluating AI output,no
+7232Y7ZH,"Rivera et al., 2024",2024,1,Writing plans,student-led,delegate,2.3,Algorithm Design,no
+7232Y7ZH,"Rivera et al., 2024",2024,2,Evaluating test feedback,student-led,delegate,NEW-E,Evaluating AI output,no
+7232Y7ZH,"Rivera et al., 2024",2024,4,Plan-to-Code Synthesis,AI-led,delegate,3.1,Writing a program,no
+LRT4QMQQ,"Smith et al., 2024",2024,1,Code reading,student-led,delegate,1.1,Code Reading,no
+LRT4QMQQ,"Smith et al., 2024",2024,2,Prompting,student-led,delegate,NEW-P,Prompting / NL specification,no
+LRT4QMQQ,"Smith et al., 2024",2024,3,Evaluating feedback,student-led,unclear,NEW-E,Evaluating AI output,no
+LRT4QMQQ,"Smith et al., 2024",2024,5,Code Synthesis,AI-led,delegate,3.1,Writing a program,no
+7Y7J2XUG,"Krishnamurthi et al., 2025",2025,1,Inferring function purpose,student-led,delegate,2.1,Interpreting the problem,yes
+7Y7J2XUG,"Krishnamurthi et al., 2025",2025,2,Writing purpose statements,student-led,delegate,NEW-P,Prompting / NL specification,yes
+7Y7J2XUG,"Krishnamurthi et al., 2025",2025,3,Evaluating test grids,student-led,delegate,NEW-E,Evaluating AI output,yes
+7Y7J2XUG,"Krishnamurthi et al., 2025",2025,5,Code Generation,AI-led,delegate,3.1,Writing a program,yes
+7Y7J2XUG,"Krishnamurthi et al., 2025",2025,6,Manual code writing,student-led,unclear,3.1,Writing a program,yes
+V2EZVTYZ,"Denny et al., 2024",2024,1,Code Reading,student-led,scaffold,1.1,Code Reading,no
+V2EZVTYZ,"Denny et al., 2024",2024,2,Prompting,student-led,scaffold,NEW-P,Prompting / NL specification,no
+V2EZVTYZ,"Denny et al., 2024",2024,3,Submit code and react to test results,student-led,unclear,4.2,Evaluating correctness,no
+V2EZVTYZ,"Denny et al., 2024",2024,4,Code Generation,AI-led,delegate,3.1,Writing a program,no
+W8WM6LUF,"Xie, 2024",2024,1,Asking questions,AI-proposes student-decides,scaffold,NEW-Q,Querying AI for help,yes
+W8WM6LUF,"Xie, 2024",2024,2,Writing Java code,student-led,unclear,3.1,Writing a program,yes
+W8WM6LUF,"Xie, 2024",2024,3,Debugging with ChatGPT,AI-proposes student-decides,scaffold,4.3,Debugging,yes
+UVKGRM34,"Zi et al., 2025",2025,1,Prompt comprehension / output prediction,student-led,delegate,1.4,Predicting output,yes
+UVKGRM34,"Zi et al., 2025",2025,2,Code comprehension / actual output prediction,student-led,delegate,1.1,Code Reading,yes
+UVKGRM34,"Zi et al., 2025",2025,4,Code generation,AI-led,delegate,3.1,Writing a program,yes
+YY39Q9CU,"Adeeb & Muldner, 2025",2025,1,Learning for loops via ChatGPT,AI-proposes student-decides,both,3.1,Writing a program,yes
+YY39Q9CU,"Adeeb & Muldner, 2025",2025,2,Code tracing,student-led,both,1.2,Code tracing,yes
+YY39Q9CU,"Adeeb & Muldner, 2025",2025,3,Code tracing (AI-assisted),AI-proposes student-decides,both,1.2,Code tracing,yes
+YY39Q9CU,"Adeeb & Muldner, 2025",2025,4,Error identification / revision,student-led,both,4.3,Debugging,yes
+YY39Q9CU,"Adeeb & Muldner, 2025",2025,5,Solution verification,AI-proposes student-decides,both,4.2,Evaluating correctness,yes
+3NR5XBBN,"MacNeil et al., 2025",2025,1,Evaluating line-by-line autocompletion options,AI-proposes student-decides,scaffold with fading,NEW-E,Evaluating AI output,no
+3NR5XBBN,"MacNeil et al., 2025",2025,2,Reflecting on prior code and planning,student-led,scaffold with fading,2.3,Algorithm Design,no
+MM8RQ9TH,"Patel et al., 2026",2026,1,Reading AI code explanations,student-led,scaffold,1.1,Code Reading,no
+LXEX8F8U,"Gandhi & Muldner, 2026",2026,1,Studying and annotating AI-generated code trace,AI-proposes student-decides,scaffold,1.1,Code Reading,no
+RDIBD77M,"Goodfellow et al., 2025",2025,1,Writing code,student-led,unclear,3.1,Writing a program,no
+ZXZV2R26,"Kerslake et al., 2025",2025,1,Reading and comprehending code,student-led,both,1.1,Code Reading,no
+ZXZV2R26,"Kerslake et al., 2025",2025,2,Writing NL explanation / prompt,student-led,both,NEW-P,Prompting / NL specification,no
+ZXZV2R26,"Kerslake et al., 2025",2025,3,Evaluating AI-generated code and test feedback,AI-proposes student-decides,both,NEW-E,Evaluating AI output,no
+ZXZV2R26,"Kerslake et al., 2025",2025,5,Code generation & grading,AI-led,delegate,3.1,Writing a program,no
+DUZXML7L,"Renzella et al., 2025",2025,1,Compile / run code,student-led,unclear,3.4,Compiling / executing,no
+DUZXML7L,"Renzella et al., 2025",2025,3,Inspect dashboard,student-led,scaffold with fading,1.2,Code tracing,no
+DUZXML7L,"Renzella et al., 2025",2025,4,Engage in dialogue,shared / collaborative,scaffold with fading,NEW-Q,Querying AI for help,no
+DUZXML7L,"Renzella et al., 2025",2025,5,Edit / repair code,student-led,scaffold with fading,3.3,Modifying code,no
+EI9KS6GZ,"Kurniawan et al., 2025",2025,1,Run end-to-end test,student-led,unclear,3.4,Compiling / executing,no
+EI9KS6GZ,"Kurniawan et al., 2025",2025,2,Locate error lines,AI-proposes student-decides,scaffold with fading,4.3,Debugging,no
+EI9KS6GZ,"Kurniawan et al., 2025",2025,5,Edit / repair code,student-led,scaffold with fading,3.3,Modifying code,no
+EI9KS6GZ,"Kurniawan et al., 2025",2025,6,Request code solution,AI-proposes student-decides,unclear,NEW-Q,Querying AI for help,no
+V7YZKPJ4,"Kimmel et al., 2024",2024,1,Write code,student-led,scaffold with fading,3.1,Writing a program,no
+V7YZKPJ4,"Kimmel et al., 2024",2024,3,Read AI feedback,student-led,scaffold with fading,1.1,Code Reading,no
+V7YZKPJ4,"Kimmel et al., 2024",2024,4,Debug / edit code,student-led,scaffold with fading,3.3,Modifying code,no
+D2DZZRLW,"Pankiewicz & Baker, 2026",2026,1,Solve micro-tasks,student-led,unclear,3.1,Writing a program,yes
+D2DZZRLW,"Pankiewicz & Baker, 2026",2026,2,Write / edit code,student-led,scaffold with fading,3.1,Writing a program,yes
+D2DZZRLW,"Pankiewicz & Baker, 2026",2026,3,Submit code,student-led,unclear,4.2,Evaluating correctness,yes
+D2DZZRLW,"Pankiewicz & Baker, 2026",2026,4,Read GPT-4o feedback,student-led,scaffold with fading,1.1,Code Reading,yes
+D2DZZRLW,"Pankiewicz & Baker, 2026",2026,5,Fix compiler errors,student-led,scaffold with fading,3.3,Modifying code,yes
+A499B9UX,"Pankiewicz & Baker, 2024",2024,1,Write / edit code,student-led,scaffold with fading,3.1,Writing a program,yes
+A499B9UX,"Pankiewicz & Baker, 2024",2024,2,Submit code,student-led,unclear,4.1,Writing test cases,yes
+A499B9UX,"Pankiewicz & Baker, 2024",2024,3,Read GPT hints,student-led,scaffold with fading,1.1,Code Reading,yes
+A499B9UX,"Pankiewicz & Baker, 2024",2024,4,Fix compiler errors / debug,student-led,scaffold with fading,3.3,Modifying code,yes
+5ZBZS3NT,"Su et al., 2026",2026,1,Complete weekly programming exercises,student-led,scaffold with fading,3.1,Writing a program,yes
+5ZBZS3NT,"Su et al., 2026",2026,2,Submit code,student-led,unclear,4.2,Evaluating correctness,yes
+5ZBZS3NT,"Su et al., 2026",2026,3,Read enhanced feedback,student-led,scaffold with fading,1.1,Code Reading,yes
+5ZBZS3NT,"Su et al., 2026",2026,4,Debug / modify code,student-led,scaffold with fading,3.3,Modifying code,yes
+BC3QXD2C,"Wu et al., 2025",2025,1,Write / edit code,student-led,scaffold with fading,3.1,Writing a program,yes
+BC3QXD2C,"Wu et al., 2025",2025,2,Execute autograder tests,student-led,scaffold with fading,3.4,Compiling / executing,yes
+BC3QXD2C,"Wu et al., 2025",2025,3,Query AI chatbot,student-led,scaffold with fading,NEW-Q,Querying AI for help,yes
+BC3QXD2C,"Wu et al., 2025",2025,4,Review inline diffs,AI-proposes student-decides,scaffold with fading,1.5,Inspecting runtime state,yes
+BC3QXD2C,"Wu et al., 2025",2025,5,Accept / Reject AI suggestions,student-led,scaffold with fading,NEW-E,Evaluating AI output,yes
+88LYUUP9,"Wang et al., 2024",2024,1,Write code,student-led,scaffold with fading,3.1,Writing a program,no
+88LYUUP9,"Wang et al., 2024",2024,2,Run code,student-led,unclear,3.4,Compiling / executing,no
+88LYUUP9,"Wang et al., 2024",2024,3,Read error message,student-led,scaffold with fading,1.1,Code Reading,no
+88LYUUP9,"Wang et al., 2024",2024,4,Fix error / re-run code,student-led,scaffold with fading,3.3,Modifying code,no
+LQ6MBUF6,"Yang et al., 2024",2024,1,Read / comprehend code,student-led,scaffold with fading,1.1,Code Reading,no
+LQ6MBUF6,"Yang et al., 2024",2024,2,Run code & observe errors,student-led,unclear,3.4,Compiling / executing,no
+LQ6MBUF6,"Yang et al., 2024",2024,3,Prompt chatbot,student-led,scaffold with fading,NEW-Q,Querying AI for help,no
+LQ6MBUF6,"Yang et al., 2024",2024,4,Evaluate AI responses,student-led,scaffold with fading,NEW-E,Evaluating AI output,no
+LQ6MBUF6,"Yang et al., 2024",2024,5,Test hypotheses / execute strategies,student-led,scaffold with fading,1.2,Code tracing,no
+LQ6MBUF6,"Yang et al., 2024",2024,6,Fix bugs / edit code,student-led,scaffold with fading,3.3,Modifying code,no
+9INY5ZLH,"Bassner et al., 2026",2026,1,Write concurrent programming code (Iris),student-led,scaffold with fading,3.1,Writing a program,yes
+9INY5ZLH,"Bassner et al., 2026",2026,2,Write concurrent programming code (ChatGPT),AI-proposes student-decides,delegate,3.1,Writing a program,yes
+9INY5ZLH,"Bassner et al., 2026",2026,3,Interact with GenAI / Request help,AI-proposes student-decides,both,NEW-Q,Querying AI for help,yes
+9INY5ZLH,"Bassner et al., 2026",2026,5,Code comprehension task,student-led,unclear,1.1,Code Reading,yes
+HHKCSGBM,"Hou et al., 2025",2025,1,Practice short programming tasks,student-led,unclear,3.1,Writing a program,no
+HHKCSGBM,"Hou et al., 2025",2025,2,Request help & solve puzzle (PC),AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,no
+HHKCSGBM,"Hou et al., 2025",2025,3,Request help & view solution (CC),AI-led,delegate,NEW-Q,Querying AI for help,no
+HHKCSGBM,"Hou et al., 2025",2025,4,Submit code,student-led,unclear,4.2,Evaluating correctness,no
+VUXKDEBH,"Hou et al., 2024",2024,1,Practice short programming tasks,student-led,unclear,3.1,Writing a program,yes
+VUXKDEBH,"Hou et al., 2024",2024,2,Solve personalized Parsons puzzle (CodeTailor),AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,yes
+VUXKDEBH,"Hou et al., 2024",2024,3,View/copy direct AI solution (Baseline),AI-led,delegate,NEW-Q,Querying AI for help,yes
+VUXKDEBH,"Hou et al., 2024",2024,4,Submit code solution,student-led,unclear,4.2,Evaluating correctness,yes
+LGPHY22E,"Qiu et al., 2026",2026,1,Generate & evaluate AI line suggestions,AI-proposes student-decides,scaffold with fading,NEW-E,Evaluating AI output,no
+LGPHY22E,"Qiu et al., 2026",2026,2,"Cycle, accept, cancel, or write code",student-led,scaffold with fading,3.1,Writing a program,no
+LGPHY22E,"Qiu et al., 2026",2026,3,Execute code checks,student-led,unclear,3.4,Compiling / executing,no
+LGPHY22E,"Qiu et al., 2026",2026,4,"Delete, reset, or backtrack",student-led,unclear,3.3,Modifying code,no
+JWTQMLCN,"Poitras et al., 2024",2024,4,Prompt AI for assistance,student-led,both,NEW-Q,Querying AI for help,yes
+JWTQMLCN,"Poitras et al., 2024",2024,5,Integrate AI-generated code,student-led,unclear,3.3,Modifying code,yes
+38UC7ZZS,"Dobson & Karkalas, 2026",2026,1,Write Python code,student-led,scaffold with fading,3.1,Writing a program,no
+38UC7ZZS,"Dobson & Karkalas, 2026",2026,2,Read and respond to AI helper prompts,AI-proposes student-decides,scaffold with fading,1.1,Code Reading,no
+38UC7ZZS,"Dobson & Karkalas, 2026",2026,3,Execute and test code,student-led,unclear,3.4,Compiling / executing,no
+C363RCAF,"del Carpio Gutierrez et al., 2024",2024,3,Solve drag-and-drop Parsons problem,AI-proposes student-decides,scaffold with fading,3.2,Implementing a design (Parsons),no
+C363RCAF,"del Carpio Gutierrez et al., 2024",2024,4,Check solution,student-led,unclear,3.4,Compiling / executing,no
+45PCIA8L,"Kazemitabaar et al., 2024",2024,1,Help Fix Code,AI-proposes student-decides,scaffold with fading,3.3,Modifying code,no
+45PCIA8L,"Kazemitabaar et al., 2024",2024,2,Help Write Code,AI-proposes student-decides,scaffold with fading,NEW-P,Prompting / NL specification,no
+45PCIA8L,"Kazemitabaar et al., 2024",2024,3,Explain Code,student-led,scaffold with fading,1.3,Explaining code,no
+45PCIA8L,"Kazemitabaar et al., 2024",2024,4,General Question,student-led,scaffold with fading,NEW-Q,Querying AI for help,no
+45PCIA8L,"Kazemitabaar et al., 2024",2024,5,Writing & debugging C code,student-led,scaffold with fading,3.1,Writing a program,no
+45PCIA8L,"Kazemitabaar et al., 2024",2024,5,Writing & debugging C code [split: Debugging],student-led,scaffold with fading,4.3,Debugging,no
+9TIJ3CIT,"Scholl & Kiesler, 2025",2025,1,Closed prompting,student-led,scaffold with fading,NEW-P,Prompting / NL specification,no
+9TIJ3CIT,"Scholl & Kiesler, 2025",2025,3,Code writing & debugging,student-led,scaffold with fading,3.1,Writing a program,no
+9TIJ3CIT,"Scholl & Kiesler, 2025",2025,3,Code writing & debugging [split: Debugging],student-led,scaffold with fading,4.3,Debugging,no
+PBSMC9G5,"Liffiton et al., 2024",2024,1,Submitting help requests,student-led,scaffold with fading,NEW-Q,Querying AI for help,no
+PBSMC9G5,"Liffiton et al., 2024",2024,2,Reading educational explanations / hints,student-led,scaffold with fading,1.1,Code Reading,no
+PBSMC9G5,"Liffiton et al., 2024",2024,4,Writing & fixing code,student-led,scaffold with fading,3.1,Writing a program,no
+PBSMC9G5,"Liffiton et al., 2024",2024,4,Writing & fixing code [split: Debugging],student-led,scaffold with fading,4.3,Debugging,no
+XF3WIE9S,"Gomes et al., 2025",2025,1,Solving lab programming exercises,AI-proposes student-decides,scaffold with fading,3.1,Writing a program,yes
+SIVULEJ3,"Stienstra et al., 2025",2025,2,Practice exercises,AI-proposes student-decides,scaffold with fading,3.1,Writing a program,yes
+K89R4WC7,"Ahme et al., 2024",2024,1,Asking conceptual & debugging questions,student-led,scaffold with fading,NEW-Q,Querying AI for help,no
+K89R4WC7,"Ahme et al., 2024",2024,2,Evaluating AI responses,shared / collaborative,unclear,NEW-E,Evaluating AI output,no
+GEMHX9PN,"Huang et al., 2025",2025,1,Practicing coding & homework,AI-proposes student-decides,scaffold with fading,3.1,Writing a program,yes
+J8LZHBZ3,"Kapoor et al., 2026",2026,1,Code writing with guardrailed AI TA,student-led,scaffold with fading,3.1,Writing a program,yes
+J8LZHBZ3,"Kapoor et al., 2026",2026,2,"Disabling guardrails (""See Solution"")",AI-led,delegate,3.1,Writing a program,yes
+4RCSHQ2N,"Wang et al., 2025",2025,2,Interacting with chatbot,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,yes
+3L4CWPQE,"Liding et al., 2026",2026,1,Completing homework coding questions,student-led,scaffold with fading,3.1,Writing a program,yes
+3L4CWPQE,"Liding et al., 2026",2026,2,Requesting context-aware hints,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,yes
+5RHNSJ77,"Tabarsi, 2026",2026,1,Submitting lab queries,student-led,scaffold with fading,NEW-Q,Querying AI for help,no
+VSEIKTVD,"Penney et al., 2025",2025,1,Asking questions / Prompting,student-led,scaffold with fading,NEW-Q,Querying AI for help,yes
+GZZCJ38L,"Woodrow et al., 2024",2024,1,Completing assignment functionality,student-led,unclear,3.1,Writing a program,no
+GZZCJ38L,"Woodrow et al., 2024",2024,2,Viewing style feedback,AI-proposes student-decides,scaffold with fading,1.1,Code Reading,no
+GZZCJ38L,"Woodrow et al., 2024",2024,3,Making style edits,student-led,scaffold with fading,3.3,Modifying code,no
+MELIDH4G,"Jacobs et al., 2025",2025,1,Writing code in editor,student-led,scaffold with fading,3.1,Writing a program,no
+MELIDH4G,"Jacobs et al., 2025",2025,2,Executing code & reviewing compiler feedback,student-led,unclear,3.4,Compiling / executing,no
+MELIDH4G,"Jacobs et al., 2025",2025,3,Selecting & reading GenAI feedback components,AI-proposes student-decides,scaffold with fading,1.1,Code Reading,no
+5U3LPAJY,"Lee et al., 2023",2023,1,Subgoal Formulation,shared / collaborative,both,2.2,Problem Decomposition,yes
+5U3LPAJY,"Lee et al., 2023",2023,2,Subsolution & Solution Generation,AI-proposes student-decides,both,3.1,Writing a program,yes
+8NN7LT4G,"Roest et al., 2024",2024,1,Solving Python exercises,student-led,scaffold with fading,3.1,Writing a program,no
+8NN7LT4G,"Roest et al., 2024",2024,2,Requesting next-step hints,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,no
+NHBA8525,"Jacobs et al., 2025",2025,1,Writing code,student-led,scaffold with fading,3.1,Writing a program,no
+NHBA8525,"Jacobs et al., 2025",2025,2,Executing code & reviewing compiler output,student-led,unclear,3.4,Compiling / executing,no
+NHBA8525,"Jacobs et al., 2025",2025,3,Requesting & reading GenAI feedback,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,no
+GQ439BHN,"Qi et al., 2025",2025,1,Writing & revising Python code,student-led,scaffold with fading,3.1,Writing a program,no
+GQ439BHN,"Qi et al., 2025",2025,2,Requesting hints,student-led,scaffold with fading,NEW-Q,Querying AI for help,no
+ZQJNSNKK,"Li & Bao, 2026",2026,3,Programming assignments,student-led,scaffold with fading,3.1,Writing a program,yes
+FM7DLH7M,"Jacobs & Jaschke, 2024",2024,1,Solving Python programming tasks,student-led,scaffold with fading,3.1,Writing a program,no
+FM7DLH7M,"Jacobs & Jaschke, 2024",2024,2,Requesting & reviewing feedback,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,no
+9JSZHWIH,"Bassner et al., 2024",2024,1,Writing code,student-led,scaffold with fading,3.1,Writing a program,no
+9JSZHWIH,"Bassner et al., 2024",2024,2,Requesting tutoring help,student-led,scaffold with fading,NEW-Q,Querying AI for help,no
+23BFU26X,"Perez & Ong, 2025",2025,1,Answering tutor prompts / Writing code,student-led,scaffold with fading,1.3,Explaining code,no
+J2X5CZAL,"Yang et al., 2025",2025,1,Collaborative problem solving,shared / collaborative,scaffold with fading,3.1,Writing a program,no
+J2X5CZAL,"Yang et al., 2025",2025,2,Requesting AI Tutor hints,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,no
+CU2ZEP4L,"Ghoochani et al., 2025",2025,1,Developing mini-coding project,student-led,scaffold with fading,3.1,Writing a program,no
+CU2ZEP4L,"Ghoochani et al., 2025",2025,3,Evaluating feedback,student-led,unclear,NEW-E,Evaluating AI output,no
+ZIQ9CVYM,"Zamfirescu-Pereira et al., 2025",2025,1,Running command-line autograder,student-led,unclear,3.4,Compiling / executing,no
+ZIQ9CVYM,"Zamfirescu-Pereira et al., 2025",2025,2,Requesting & evaluating Bot hints,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,no
+ZIQ9CVYM,"Zamfirescu-Pereira et al., 2025",2025,3,Revising homework code,student-led,scaffold with fading,3.3,Modifying code,no
+TKP944PE,"Tran et al., 2026",2026,1,Completing lab assignment (Fast),AI-proposes student-decides,delegate,3.1,Writing a program,yes
+TKP944PE,"Tran et al., 2026",2026,2,Completing lab assignment (Slow),student-led,scaffold with fading,3.1,Writing a program,yes
+2ET2Y4ZA,"Niousha et al., 2026",2026,1,Seeking programming feedback / help,student-led,scaffold with fading,NEW-Q,Querying AI for help,no
+DZKB6S4C,"Kuramitsu et al., 2023",2023,1,Error diagnosis & hint requests,AI-proposes student-decides,scaffold with fading,4.3,Debugging,no
+DZKB6S4C,"Kuramitsu et al., 2023",2023,2,Writing Python code,student-led,unclear,3.1,Writing a program,no
+U9UR24NX,"Prather et al., 2023",2023,1,Shepherding,student-led,both,3.1,Writing a program,no
+46V7WRLR,"Scholl et al., 2024",2024,1,Task Description Prompts (Low prompts),AI-proposes student-decides,delegate,NEW-P,Prompting / NL specification,no
+46V7WRLR,"Scholl et al., 2024",2024,2,Prompts in Own Words (High prompts),shared / collaborative,scaffold,NEW-Q,Querying AI for help,no
+46V7WRLR,"Scholl et al., 2024",2024,3,Testing generated code,student-led,unclear,4.2,Evaluating correctness,no
+IMJMTMQR,"Ghimire & Edwards, 2024",2024,1,Writing code (graphical racing game),student-led,both,3.1,Writing a program,no
+IMJMTMQR,"Ghimire & Edwards, 2024",2024,2,Identifying and fixing logic errors,shared / collaborative,both,4.3,Debugging,no
+IMJMTMQR,"Ghimire & Edwards, 2024",2024,3,Code generation (snippets / complete),AI-proposes student-decides,delegate,3.1,Writing a program,no
+SPNKJT79,"Rahe & Maalej, 2025",2025,1,Direct code generation (Solve / Fix),AI-proposes student-decides,delegate,3.1,Writing a program,yes
+SPNKJT79,"Rahe & Maalej, 2025",2025,3,Independent solving,student-led,unclear,3.1,Writing a program,yes
+SPNKJT79,"Rahe & Maalej, 2025",2025,4,Code reading and tracing,student-led,unclear,1.2,Code tracing,yes
+GMVDUFUD,"Hak et al., 2025",2025,1,Task 1 (Familiar — max number),student-led,both,NEW-Q,Querying AI for help,yes
+GMVDUFUD,"Hak et al., 2025",2025,3,Brainstorming / Planning,AI-proposes student-decides,delegate,2.2,Problem Decomposition,yes
+GMVDUFUD,"Hak et al., 2025",2025,4,Debugging,shared / collaborative,both,4.3,Debugging,yes
+V7MWTKJ6,"Shin et al., 2025",2025,1,Implementing open programming task,student-led,scaffold with fading,3.1,Writing a program,yes
+V7MWTKJ6,"Shin et al., 2025",2025,2,Formulating queries in CodeHelp,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,yes
+2Y9942HY,"Sheese et al., 2024",2024,1,Structuring and submitting queries,student-led,scaffold with fading,NEW-Q,Querying AI for help,no
+2Y9942HY,"Sheese et al., 2024",2024,2,Debugging / Implementation help,AI-proposes student-decides,scaffold with fading,4.3,Debugging,no
+2Y9942HY,"Sheese et al., 2024",2024,3,Writing/fixing code,student-led,scaffold with fading,3.1,Writing a program,no
+RZNZSFYB,"Ma et al., 2025",2025,1,Planning / Code Generation prompts,AI-proposes student-decides,delegate,3.1,Writing a program,no
+RZNZSFYB,"Ma et al., 2025",2025,2,Monitoring / Debugging prompts,AI-proposes student-decides,both,4.3,Debugging,no
+RZNZSFYB,"Ma et al., 2025",2025,3,Evaluation / Code Explanation prompts,AI-proposes student-decides,scaffold,1.3,Explaining code,no
+RZNZSFYB,"Ma et al., 2025",2025,4,Solving programming exercises,student-led,unclear,3.1,Writing a program,no
+M6P73LEG,"Prather et al., 2024",2024,1,Inline prompt accepting/ignoring (Copilot),AI-proposes student-decides,both,3.1,Writing a program,yes
+M6P73LEG,"Prather et al., 2024",2024,2,Prompting ChatGPT,AI-proposes student-decides,both,NEW-P,Prompting / NL specification,yes
+M6P73LEG,"Prather et al., 2024",2024,3,Solving C++ programming problem,student-led,both,3.1,Writing a program,yes
+DMFLZMJ4,"Rachmat et al., 2025",2025,1,Prompting with suggested learning prompt,shared / collaborative,scaffold with fading,NEW-P,Prompting / NL specification,no
+DMFLZMJ4,"Rachmat et al., 2025",2025,2,Understanding programming concepts & logic,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,no
+DMFLZMJ4,"Rachmat et al., 2025",2025,3,Understanding code snippets,AI-proposes student-decides,scaffold with fading,1.1,Code Reading,no
+DMFLZMJ4,"Rachmat et al., 2025",2025,4,Debugging / error identification,AI-proposes student-decides,scaffold with fading,4.3,Debugging,no
+9B6GYL28,"Margulieux et al., 2024",2024,1,Speeding up code / adding features,AI-proposes student-decides,both,3.3,Modifying code,no
+9B6GYL28,"Margulieux et al., 2024",2024,2,Debugging & code explanation,AI-proposes student-decides,both,1.3,Explaining code,no
+9B6GYL28,"Margulieux et al., 2024",2024,3,Understanding problem statements,AI-proposes student-decides,scaffold,2.1,Interpreting the problem,no
+6U8W938V,"Kumar et al., 2024",2024,1,Study 2: Programming assignment,student-led,unclear,3.1,Writing a program,yes
+Z38ERTX9,"Varone et al., 2026",2026,1,Instrumental help seeking,student-led,scaffold with fading,NEW-Q,Querying AI for help,yes
+YTYUL2SQ,"Vadaparty et al., 2025",2025,1,Formative coding & projects,AI-proposes student-decides,delegate,3.1,Writing a program,yes
+LWDTTKNR,"Kiesler et al., 2024",2024,1,Pattern 1: Generating solutions without tracing,AI-led,delegate,NEW-P,Prompting / NL specification,yes
+LWDTTKNR,"Kiesler et al., 2024",2024,2,Pattern 2: Generating solutions and tracing,AI-proposes student-decides,delegate,1.2,Code tracing,yes
+LWDTTKNR,"Kiesler et al., 2024",2024,3,Pattern 3: Developing solutions & asking for feedback/completion,shared / collaborative,both,3.1,Writing a program,yes
+VMXXSVM8,"Andleeb et al., 2025",2025,1,Writing C code / Lab tasks (with AI),AI-proposes student-decides,both,3.1,Writing a program,yes
+VMXXSVM8,"Andleeb et al., 2025",2025,2,Debugging & warning resolution (with AI),AI-proposes student-decides,both,4.3,Debugging,yes
+ZYMJJXEY,"Xue et al., 2024",2024,1,UML diagramming & Java coding (with ChatGPT),AI-proposes student-decides,delegate,2.6,UML/OO Modelling,yes
+K8UT83K9,"Lyu et al., 2024",2024,1,Python labs and assignments (with CodeTutor),AI-proposes student-decides,scaffold with fading,3.1,Writing a program,yes
+DGNZJDEJ,"Sivasakthi & Meenakshi, 2025",2025,1,"Programming training (experimental, with ChatGPT)",AI-proposes student-decides,scaffold with fading,3.1,Writing a program,yes
+E43GGVK7,"Mahmoud et al., 2025",2025,1,"Learning-Tasks 1 & 2 (experimental, with ChatGPT)",AI-proposes student-decides,both,NEW-P,Prompting / NL specification,yes
+FSF55NHN,"Sivasakthi & Meenakshi, 2025",2025,1,"Solving Python assignments (6 weeks, with ChatGPT)",AI-proposes student-decides,scaffold with fading,3.1,Writing a program,yes
+IBLH457C,"Ma et al., 2024",2024,3,Week 8 Mini-project,AI-proposes student-decides,scaffold with fading,3.1,Writing a program,no
+267GYDRA,"Kosar et al., 2024",2024,1,Weekly C++ lab assignments (with ChatGPT),AI-proposes student-decides,scaffold with fading,3.1,Writing a program,yes
+267GYDRA,"Kosar et al., 2024",2024,2,In-lab extended assignments,student-led,scaffold with fading,3.1,Writing a program,yes
+N8PETZLW,"Haindl & Weinberger, 2024",2024,1,Complete weekly Java exercises (with ChatGPT),AI-proposes student-decides,both,3.1,Writing a program,yes
+EYWHUTBP,"Gardella et al., 2024",2024,1,Implement Python functions (with Copilot),AI-proposes student-decides,delegate,3.1,Writing a program,yes
+EYWHUTBP,"Gardella et al., 2024",2024,2,Implement Python functions (solo),student-led,unclear,3.1,Writing a program,yes
+EYWHUTBP,"Gardella et al., 2024",2024,3,Unit testing and submission,student-led,unclear,4.1,Writing test cases,yes
+TDXUQ7J7,"Styve et al., 2024",2024,1,Generate Java code via Copilot,AI-led,delegate,3.1,Writing a program,yes
+TDXUQ7J7,"Styve et al., 2024",2024,2,Analyze Copilot code for quality/robustness,student-led,both,3.5,Code style and quality,yes
+TDXUQ7J7,"Styve et al., 2024",2024,3,Submit code to ChatGPT for peer review,AI-proposes student-decides,both,4.2,Evaluating correctness,yes
+3HR7BNL3,"Vadaparty et al., 2024",2024,1,"Code Reading, Tracing & Explaining",student-led,both,1.2,Code tracing,yes
+3HR7BNL3,"Vadaparty et al., 2024",2024,2,Prompt Engineering,student-led,both,NEW-P,Prompting / NL specification,yes
+3HR7BNL3,"Vadaparty et al., 2024",2024,3,Code Testing & Debugging,student-led,both,4.1,Writing test cases,yes
+3HR7BNL3,"Vadaparty et al., 2024",2024,3,Code Testing & Debugging [split: Debugging],student-led,both,4.3,Debugging,yes
+3HR7BNL3,"Vadaparty et al., 2024",2024,4,Problem Decomposition,student-led,both,2.2,Problem Decomposition,yes
+3HR7BNL3,"Vadaparty et al., 2024",2024,5,Open-Ended Domain Projects (with Copilot),AI-proposes student-decides,both,3.1,Writing a program,yes
+5TP8JDRZ,"Lubarda et al., 2025",2025,2,AI-Assisted Group Project,AI-proposes student-decides,both,3.1,Writing a program,yes
+6KKFRQ6P,"Hu et al., 2023",2023,1,Problem Decomposition,student-led,both,2.2,Problem Decomposition,no
+6KKFRQ6P,"Hu et al., 2023",2023,2,Prompting for Code Snippets,AI-proposes student-decides,both,NEW-P,Prompting / NL specification,no
+6KKFRQ6P,"Hu et al., 2023",2023,3,Code Comprehension & Modification,student-led,both,3.3,Modifying code,no
+6KKFRQ6P,"Hu et al., 2023",2023,4,Sub-program Integration,student-led,both,3.1,Writing a program,no
+JDSSV2LY,"Herden, 2024",2024,1,Constructing Code (T2),AI-proposes student-decides,both,3.1,Writing a program,no
+JDSSV2LY,"Herden, 2024",2024,2,Describing Code (T3),AI-proposes student-decides,both,1.3,Explaining code,no
+JDSSV2LY,"Herden, 2024",2024,3,Refactoring Code (T4),AI-proposes student-decides,both,3.3,Modifying code,no
+JDSSV2LY,"Herden, 2024",2024,4,Formatting/Style/Commenting (T5-T7),AI-proposes student-decides,delegate,3.5,Code style and quality,no
+JDSSV2LY,"Herden, 2024",2024,5,Plausibility Checking & Re-Prompting,student-led,both,NEW-P,Prompting / NL specification,no
+LZCXM8S7,"Liu et al., 2024",2024,1,Explaining Highlighted Code (EHC),AI-proposes student-decides,scaffold with fading,1.3,Explaining code,no
+LZCXM8S7,"Liu et al., 2024",2024,2,Evaluating & Improving Code Style (style50),AI-proposes student-decides,scaffold with fading,3.5,Code style and quality,no
+LZCXM8S7,"Liu et al., 2024",2024,3,Conversational Debugging (CS50 Duck),AI-proposes student-decides,scaffold with fading,4.3,Debugging,no
+LZCXM8S7,"Liu et al., 2024",2024,4,Forum Q&A (CS50 Duck on Ed),AI-proposes student-decides,scaffold with fading,5.2,Presenting solutions,no
+LZCXM8S7,"Liu et al., 2024",2024,5,Writing code,student-led,scaffold with fading,3.1,Writing a program,no
+QM3BMGWM,"Jayaraman & Mills, 2026",2026,1,Solving 10-min paper coding problems,student-led,scaffold with fading,3.1,Writing a program,yes
+ENCNYXH2,"Vadaparty et al., 2026",2026,4,Open-Ended Domain Projects (with Copilot),AI-proposes student-decides,both,3.1,Writing a program,yes
+6YRKZIKX,"Deutschbein & Antu, 2025",2025,1,Reading & Parsing Non-Standard Files,student-led,unclear,1.1,Code Reading,yes
+6YRKZIKX,"Deutschbein & Antu, 2025",2025,2,Multidimensional Indexing & Matrix Construction,student-led,unclear,3.1,Writing a program,yes
+D2BJZI9Y,"Fayaz et al., 2025",2025,3,Writing Code (Solving Exercises),student-led,unclear,3.1,Writing a program,no
+D2BJZI9Y,"Fayaz et al., 2025",2025,4,Evaluating Automated Feedback,AI-proposes student-decides,scaffold with fading,NEW-E,Evaluating AI output,no
+92FRJIXG,"Kavuri et al., 2026",2026,1,Formulating and submitting help queries,student-led,scaffold with fading,NEW-Q,Querying AI for help,no
+92FRJIXG,"Kavuri et al., 2026",2026,3,Writing assignment code,student-led,scaffold with fading,3.1,Writing a program,no
+E9RMM5DB,"Prather et al., 2025",2025,2,Code production,AI-led,delegate,3.1,Writing a program,no
+E9RMM5DB,"Prather et al., 2025",2025,3,Evaluating generated code against test cases,shared / collaborative,unclear,NEW-E,Evaluating AI output,no
+E9RMM5DB,"Prather et al., 2025",2025,4,Iteratively editing prompts,student-led,delegate,NEW-P,Prompting / NL specification,no
+GZN23U9X,"Yeh et al., 2025",2025,2,Answering clarifying questions (iGPT only),shared / collaborative,scaffold with fading,2.1,Interpreting the problem,no
+GZN23U9X,"Yeh et al., 2025",2025,4,Code production,AI-led,delegate,3.1,Writing a program,no
+GZN23U9X,"Yeh et al., 2025",2025,5,Submitting code to autograder and refining prompts,student-led,unclear,4.2,Evaluating correctness,no
+PYW7TXF9,"Baidya & Pandey, 2026",2026,1,Explaining programming concepts,student-led,scaffold with fading,1.3,Explaining code,yes
+Y8XKJQF6,"Rogers et al., 2025",2025,1,Teaching/explaining MATLAB concepts,student-led,scaffold with fading,1.3,Explaining code,yes
+Y8XKJQF6,"Rogers et al., 2025",2025,3,Identifying and correcting errors,student-led,scaffold with fading,4.3,Debugging,yes
+656WB3CJ,"Scholl & Kiesler, 2024",2024,1,Task 1: Read/interpret recursive code using ChatGPT,AI-proposes student-decides,both,1.2,Code tracing,no
+656WB3CJ,"Scholl & Kiesler, 2024",2024,2,Task 2: Implement function (with ChatGPT),AI-proposes student-decides,both,3.1,Writing a program,no
+I5H4WA4Q,"Ahmed et al., 2025",2025,1,Write and correct C code,student-led,scaffold with fading,3.1,Writing a program,yes
+I5H4WA4Q,"Ahmed et al., 2025",2025,2,Request feedback/hints,student-led,scaffold with fading,NEW-Q,Querying AI for help,yes
+5A4VQUBR,"Kerslake et al., 2024",2024,1,EiPE prompting tasks,student-led,both,NEW-P,Prompting / NL specification,yes
+5A4VQUBR,"Kerslake et al., 2024",2024,3,Code generation & test evaluation,AI-led,both,3.1,Writing a program,yes
+Z9NGU4VN,"Hadyaoui & Cheniti-Belcadhi, 2024",2024,1,Write Python code,student-led,scaffold with fading,3.1,Writing a program,yes
+Z9NGU4VN,"Hadyaoui & Cheniti-Belcadhi, 2024",2024,2,Query AI Chatbot,AI-proposes student-decides,scaffold with fading,NEW-Q,Querying AI for help,yes
+Z9NGU4VN,"Hadyaoui & Cheniti-Belcadhi, 2024",2024,3,Iterative debugging & optimization,student-led,scaffold with fading,4.3,Debugging,yes
